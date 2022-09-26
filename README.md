@@ -8,8 +8,10 @@ Give me a target and a working account and ill get it done ;)
 
 ## Projects
 
-Coming soon!
-
+1. Openbullet bot
+2. Openbullet api python
+3. Discord account generator bot
+4. Spotify account generator
 
 ## Configs
 

@@ -5,8 +5,6 @@ I make configs for the sites YOU want!
 
 Give me a target and a working account and ill get it done ;)
 
-\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/
-
 
 ## Projects
 

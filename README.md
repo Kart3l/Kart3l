@@ -17,6 +17,12 @@ Give me a target and a working account and ill get it done ;)
 
 1. SOON!
 
+## You can even write me an email
+
+PGP (https://raw.githubusercontent.com/Kart3l/Kart3l/main/PGP%20key.asc)
+
+Email: Kart3l.h@proton.me
+
 ## You can find me here :)
 Cracked.io (https://cracked.io/kart3l)
 
@@ -25,3 +31,4 @@ Discord (https://discord.gg/yDx4jCAShu)
 Telegram (https://t.me/+GRr9Pg3FytdkZDY8)
 
 Breached (https://breached.to/User-Kart3l)
+
